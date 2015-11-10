@@ -1,6 +1,6 @@
 import unittest
 
-from marisa.laser_jab_manager import *
+from marisa.laser_job_manager import *
 
 
 class test_laser_job_manager(unittest.TestCase):

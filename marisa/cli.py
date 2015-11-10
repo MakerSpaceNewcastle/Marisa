@@ -1,6 +1,6 @@
 import datetime
 from argparse import ArgumentParser
-from laser_jab_manager import LaserJobManager
+from laser_job_manager import LaserJobManager
 
 
 def parse_cli():
