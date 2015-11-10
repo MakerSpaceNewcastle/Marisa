@@ -1,6 +1,8 @@
 Marisa
 ======
 
+[![Build Status](https://travis-ci.org/MakerSpaceNewcastle/Marisa.svg?branch=master)](https://travis-ci.org/MakerSpaceNewcastle/Marisa)
+
 Laser job recording library/CLI for Makersapce.
 
 Usage
